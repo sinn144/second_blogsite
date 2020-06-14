@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sinn144.github.io/second_blogsite/posts/20200614/</loc>
+    <lastmod>2020-06-14T23:56:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sinn144.github.io/second_blogsite/posts/</loc>
+    <lastmod>2020-06-14T23:56:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sinn144.github.io/second_blogsite/</loc>
+    <lastmod>2020-06-14T23:56:44+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sinn144.github.io/second_blogsite/categories/</loc>
   </url>
   
   <url>
     <loc>https://sinn144.github.io/second_blogsite/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sinn144.github.io/second_blogsite/</loc>
   </url>
   
 </urlset>

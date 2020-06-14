@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Why 2nd file...</title>
-    <link>https://sinn144.github.io/second_blogsite/</link>
-    <description>Recent content on Why 2nd file...</description>
+    <title>Posts on Why 2nd file...</title>
+    <link>https://sinn144.github.io/second_blogsite/posts/</link>
+    <description>Recent content in Posts on Why 2nd file...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 14 Jun 2020 23:56:44 +0900</lastBuildDate>
     
-	<atom:link href="https://sinn144.github.io/second_blogsite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sinn144.github.io/second_blogsite/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
